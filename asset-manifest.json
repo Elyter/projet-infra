@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/static/js/main.6a831557.js",
+    "static/js/762.b68c1a78.js": "/static/js/762.b68c1a78.js",
+    "static/media/tomate.png": "/static/media/tomate.96ec5e09b5fb354189ab.png",
+    "static/media/brocolis.jpeg": "/static/media/brocolis.c1c98df16c6de29f138a.jpeg",
+    "static/media/poire.jpeg": "/static/media/poire.a9a02c3fe1315a2ce21c.jpeg",
+    "static/media/pomme.jpeg": "/static/media/pomme.04a0a81a65dc79f8de9d.jpeg",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.6a831557.js.map": "/static/js/main.6a831557.js.map",
+    "762.b68c1a78.js.map": "/static/js/762.b68c1a78.js.map"
+  },
+  "entrypoints": [
+    "static/js/762.b68c1a78.js",
+    "static/js/main.6a831557.js"
+  ]
+}
